@@ -7,6 +7,5 @@ This project is an enhanced version of Assignment 1.
 - Filter profiles by programme
 - JavaBean implementation
 
-Database
 Database Name: student_profile  
 Table Name: profile
