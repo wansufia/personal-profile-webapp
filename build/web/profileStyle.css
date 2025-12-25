@@ -57,6 +57,45 @@ body {
     background: #5a9c65;
 }
 
+/* Dropdown styling */
+select {
+    width: 100%;
+    padding: 14px;
+    margin: 10px 0 20px;
+    border-radius: 10px;
+    border: 1px solid #dcdcdc;
+    font-size: 16px;
+    background: #fff;
+    color: #333;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+}
+
+select:focus {
+    border-color: #e38ca3;
+    outline: none;
+}
+
+/* Filter dropdown styling */
+.filter-select {
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #f7c6d0;
+    font-size: 16px;
+    margin-right: 10px;
+    background: #fff0f4;
+    color: #333;
+    cursor: pointer;
+}
+
+.filter-select:focus {
+    border-color: #e38ca3;
+    outline: none;
+}
+
 /*   FORM PAGE STYLES    */
 
 .form-title {
